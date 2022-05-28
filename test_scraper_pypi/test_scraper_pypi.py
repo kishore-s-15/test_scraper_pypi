@@ -4,10 +4,6 @@
 class TestScraperPypi:
     """Main class."""
 
-    def __init__(self):
-        """Constructor."""
-        pass
-
     def main(self):
         """Main function."""
         return self.return_greet_message()
